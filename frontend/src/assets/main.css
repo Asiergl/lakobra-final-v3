@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Estilos globales opcionales para asegurar el look oscuro */
+body {
+  @apply bg-black text-white antialiased;
+}
